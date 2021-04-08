@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "html-tokenizer": "^4.0.1",
     "html2canvas": "^1.0.0-rc.7",
     "puppeteer": "^8.0.0",
     "puppeteer-core": "^8.0.0"
