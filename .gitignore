@@ -1,2 +1,4 @@
-scripts/scrape-js/data/
+scripts/scrape-js/data/images/
+scripts/scrape-js/data/title/
+scripts/scrape-js/data/code/
 scripts/scrape-js/node_modules/
